@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "kanbanfire-363c6"
+  },
+  "targets": {
+    "kanbanfire-363c6": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-363c6"
+        ]
+      }
+    }
+  }
+}
